@@ -5,7 +5,7 @@ import uvicorn
 app = FastAPI()
 clientid = "teeest"
 api_key = "u12344m5n5n12l3l5"
-Private key='''
+Private_key='''
 -----BEGIN OPENSSH PRIVATE KEY-----
 b3BlbnNzaC1rZXktdjEAAAAACmFlczI1Ni1jdHIAAAAGYmNyeXB0AAAAGAAAABAjNIZuun
 xgLkM8KuzfmQuRAAAAEAAAAAEAAAGXAAAAB3NzaC1yc2EAAAADAQABAAABgQDe3Al0EMPz
